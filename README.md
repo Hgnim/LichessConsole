@@ -1,0 +1,1 @@
+Currently, due to API limitations, the functionality to move chess pieces cannot be implemented, so the project is temporarily abandoned.
